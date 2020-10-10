@@ -1,0 +1,20 @@
+{
+  "name": "pull_request",
+  "payload": {
+    "action": "opened",
+    "pull_request": {
+      "id": 499916222,
+      "state": "open",
+      "body": "depends-on: 1, 2",
+      "head": {
+        "sha": "7c0d795283c1b95f9530393175bec83a4addba63",
+        "user": {
+          "login": "Nevoss"
+        },
+        "repo": {
+          "name": "test-github-app"
+        }
+      }
+    }
+  }
+}
